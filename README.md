@@ -11,14 +11,13 @@
 4. [Contributing](#contributing)
 5. [Licenses](#license)
 
-## Funding
-
-This research work has been funded by the European Space Agency (ESA) under the FutureEO program and the SD4EO project (Contract No.: 4000142334/23/I-DT), supervised by the ESA Φ-lab.
-
 ## Introduction
 
 This repository houses the sub-repositories developed for the WP300 work package within the SD4EO project, led by ESA. WP300 focuses on synthetic data generation through artificial intelligence techniques, delivering innovative solutions in an open-source environment. Third-party code has been adapted to expedite the development of various proof-of-concept implementations, organized into sub-repositories corresponding to specific use cases (UCs). For more information on the project objectives, please visit the [SD4EO Project Page](https://eo4society.esa.int/projects/sd4eo/).
 
+## Funding
+
+This research work has been funded by the European Space Agency (ESA) under the FutureEO program and the SD4EO project (Contract No.: 4000142334/23/I-DT), supervised by the ESA Φ-lab.
 
 ## Sub-repositories
 
