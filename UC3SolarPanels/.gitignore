@@ -1,0 +1,6 @@
+*.png
+*.bmp
+runwayml/
+syntheticS2model/
+*.jpg
+

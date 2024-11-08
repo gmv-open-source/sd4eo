@@ -1,0 +1,13 @@
+*.png
+*.jpg
+*.pyc
+*.csv
+*.jsonl
+*.json
+*.ckpt
+*.log
+events.out.tfevents.*
+*.bmp
+*.npz
+
+
