@@ -9,5 +9,6 @@
 events.out.tfevents.*
 *.bmp
 *.npz
+!readme.media/*.jpg
 
 

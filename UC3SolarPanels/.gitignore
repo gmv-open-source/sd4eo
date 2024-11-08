@@ -3,4 +3,5 @@
 runwayml/
 syntheticS2model/
 *.jpg
+!readme.media/*.png
 

@@ -7,3 +7,4 @@ Cat.old/*
 *.nc
 *.log
 *.pickle
+!readme.media/*.png
