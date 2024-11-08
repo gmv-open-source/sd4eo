@@ -3,13 +3,17 @@
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Sub-repositories](#sub-repositories)
+2. [Funding](#funding)
+3. [Sub-repositories](#sub-repositories)
    - [UC1: Crop Field Categorisation](#uc1-crop-field-categorisation)
    - [UC2: Human Settlement Categorisation](#uc2-human-settlement-categorisation)
    - [UC3: Photovoltaic Panels Monitoring](#uc3-photovoltaic-panels-monitoring)
-5. [Contributing](#contributing)
-6. [Licenses](#license)
+4. [Contributing](#contributing)
+5. [Licenses](#license)
 
+## Funding
+
+This research work has been funded by the European Space Agency (ESA) under the FutureEO program and the SD4EO project (Contract No.: 4000142334/23/I-DT), supervised by the ESA Φ-lab.
 
 ## Introduction
 
